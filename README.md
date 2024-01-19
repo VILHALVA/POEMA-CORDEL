@@ -4,7 +4,7 @@
 [![GitHub Repo stars](https://img.shields.io/badge/VILHALVA-GITHUB-03A9F4?logo=github)](https://github.com/VILHALVA)
 [![GitHub Repo stars](https://img.shields.io/badge/MEUS-CURSOS-03A9F4?logo=github)](https://github.com/VILHALVA?tab=repositories&q=CURSO&type=public&language=&sort=) <br>
 
-<img src="https://cord3l.com.br/wp-content/uploads/2022/09/Cordel-Ico.png" align="center" width="280"> <br>
+<img src="FOTO.png" align="center" width="400"> <br>
 
 ## DESCRIÇÃO:
 Este é um código HTML e CSS para uma página da web chamada "CORDEL". Vamos analisar as principais partes do código:
