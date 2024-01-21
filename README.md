@@ -1,10 +1,7 @@
 # POEMA CORDEL
 👨‍🏫PROJETO FEITO PARA O CURSO DE HTML E CSS DO CURSO EM VIDEO.
 
-[![GitHub Repo stars](https://img.shields.io/badge/VILHALVA-GITHUB-03A9F4?logo=github)](https://github.com/VILHALVA)
-[![GitHub Repo stars](https://img.shields.io/badge/MEUS-CURSOS-03A9F4?logo=github)](https://github.com/VILHALVA?tab=repositories&q=CURSO&type=public&language=&sort=) <br>
-
-<img src="FOTO.png" align="center" width="400"> <br>
+<img src="FOTO.png" align="center" width="500"> <br>
 
 ## DESCRIÇÃO:
 Este é um código HTML e CSS para uma página da web chamada "CORDEL". Vamos analisar as principais partes do código:
@@ -54,8 +51,39 @@ Este é um código HTML e CSS para uma página da web chamada "CORDEL". Vamos an
 7. **Estilos para o Rodapé:**
    - Define a aparência do rodapé, incluindo cor de fundo, cor do texto e padding.
 
-### Considerações Adicionais:
+### CONSIDERAÇÕES ADICIONAIS:
    - O código utiliza diferentes fontes, incluindo "PASSION_BOLD", "PASSION_BLACK", "PASSION_REGULAR" e "SRIRACHA", que devem estar disponíveis nos arquivos de fontes (`../FONTES/`).
    - A página segue um estilo de cordel moderno, com versos que abordam temas contemporâneos.
    - As seções de imagem têm estilos específicos para melhorar a apresentação visual.
+
+## COMO USAR?
+* Clone o repositório para o seu sistema local:
+
+```bash
+git clone https://github.com/VILHALVA/POEMA-CORDEL.git
+```
+
+* Navegue até o diretório do projeto.
+
+```bash
+cd POEMA-CORDEL
+```
+
+* Descompacte o arquivo ZIP (se você baixou manualmente):
+
+```bash
+unzip POEMA-CORDEL.zip
+```
+* Abra o arquivo `CODIGO.html` em seu navegador de preferência.
+
+## NÃO SABE?
+- Entendemos que para manipular arquivos em `HTML`, `CSS` e outras linguagens relacionadas, é necessário possuir conhecimento nessas áreas. Para auxiliar nesse aprendizado, oferecemos cursos gratuitos disponíveis:
+* [Curso de HTML e CSS](https://github.com/VILHALVA/CURSO-DE-HTML-E-CSS)
+* [Curso de JavaScript](https://github.com/VILHALVA/CURSO-DE-JAVASCRIPT)
+* [Confira mais cursos](https://github.com/VILHALVA?tab=repositories&q=+topic:CURSO)
+
+## CREDITOS:
+- [PROJETO CRIADO PELO VILHALVA](https://github.com/VILHALVA)
+
+
 
