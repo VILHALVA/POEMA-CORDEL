@@ -1,7 +1,13 @@
 # POEMA CORDEL
 👨‍🏫PROJETO FEITO PARA O CURSO DE HTML E CSS DO CURSO EM VIDEO.
 
-<img src="FOTO.png" align="center" width="500"> <br>
+<img src="./IMAGENS/FOTO_1.png" align="center" width="400"> <br>
+<img src="./IMAGENS/FOTO_2.png" align="center" width="400"> <br>
+<img src="./IMAGENS/FOTO_3.png" align="center" width="400"> <br>
+<img src="./IMAGENS/FOTO_4.png" align="center" width="400"> <br>
+<img src="./IMAGENS/FOTO_5.png" align="center" width="400"> <br>
+<img src="./IMAGENS/FOTO_6.png" align="center" width="400"> <br>
+<img src="./IMAGENS/FOTO_7.png" align="center" width="400"> <br>
 
 ## DESCRIÇÃO:
 Este é um código HTML e CSS para uma página da web chamada "CORDEL". Vamos analisar as principais partes do código:
@@ -86,6 +92,5 @@ unzip POEMA-CORDEL.zip
 - [PROJETO FEITO PELO VILHALVA](https://github.com/VILHALVA)
 - [PROJETO FEITO PARA O CURSO DE HTML E CSS](https://github.com/VILHALVA/CURSO-DE-HTML-E-CSS)
 - [ESTÁ DISPONIVEL NO SITE](https://vilhalva.github.io/STYLER/STYLER.html)
-
 
 
