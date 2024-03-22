@@ -60,31 +60,11 @@ Este é um código HTML e CSS para uma página da web chamada "CORDEL". Vamos an
    - A página segue um estilo de cordel moderno, com versos que abordam temas contemporâneos.
    - As seções de imagem têm estilos específicos para melhorar a apresentação visual.
 
-## COMO USAR?
-* Clone o repositório para o seu sistema local:
-
-```bash
-git clone https://github.com/VILHALVA/POEMA-CORDEL.git
-```
-
-* Navegue até o diretório do projeto.
-
-```bash
-cd POEMA-CORDEL
-```
-
-* Descompacte o arquivo ZIP (se você baixou manualmente):
-
-```bash
-unzip POEMA-CORDEL.zip
-```
-* Abra o arquivo `CODIGO.html` em seu navegador de preferência.
-
 ## NÃO SABE?
 - Entendemos que para manipular arquivos em `HTML`, `CSS` e outras linguagens relacionadas, é necessário possuir conhecimento nessas áreas. Para auxiliar nesse aprendizado, oferecemos cursos gratuitos disponíveis:
-* [Curso de HTML e CSS](https://github.com/VILHALVA/CURSO-DE-HTML-E-CSS)
-* [Curso de JavaScript](https://github.com/VILHALVA/CURSO-DE-JAVASCRIPT)
-* [Confira mais cursos](https://github.com/VILHALVA?tab=repositories&q=+topic:CURSO)
+* [CURSO DE HTML E CSS](https://github.com/VILHALVA/CURSO-DE-HTML-E-CSS)
+* [CURSO DE JAVASCRIPT](https://github.com/VILHALVA/CURSO-DE-JAVASCRIPT)
+* [CONFIRA MAIS CURSOS](https://github.com/VILHALVA?tab=repositories&q=+topic:CURSO)
 
 ## CREDITOS:
 - [PROJETO FEITO PELO VILHALVA](https://github.com/VILHALVA)
